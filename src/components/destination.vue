@@ -197,7 +197,7 @@
       margin: 0 0 0 0;
       left: 0;
       top: 0;
-      background-image: url('/Users/programing/Desktop/programing/challange/space/space-turism-website/src/assets/mobile/background-destination-mobile.jpg');
+      background-image: url('../assets/mobile/background-destination-mobile.jpg');
       background-size: 100vw 100vh;
     }
     .icon{
